@@ -1,0 +1,1807 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="NOODP" name="robots">
+<title>オムロン(株)【6645】の掲示板  2024/05/10～ - 株式掲示板 - Yahoo!ファイナンス</title>
+<meta content="Yahoo!ファイナンス掲示板は、シンプルで誰でも楽しめる匿名掲示板です。Yahoo!ファイナンスでは投資判断に役立つ情報を掲載しています。" name="description"/>
+<meta content="掲示板,株式,電気機器" lang="ja" name="keywords" xml:lang="ja"/>
+<meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+<link href="https://s.yimg.jp/images/mb/textream/common/css/common-2.0.7.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//s.yimg.jp/images/finance/app/finance152.png" rel="apple-touch-icon"/>
+<script async="" language="javascript" src="//yads.c.yimg.jp/js/yads-async.js" type="text/javascript"></script>
+<link href="https://finance.yahoo.co.jp/cm/message/1006645/a5aaa5e0a5ma5s" rel="canonical">
+<link href="https://finance.yahoo.co.jp/quote/6645.T/bbs" rel="alternate"/>
+<link href="/cm/rss/1006645/a5aaa5e0a5ma5s/comment.xml" rel="alternate" title="オムロン(株)【6645】の掲示板  2024/05/10～ - 株式掲示板 - Yahoo!ファイナンス" type="application/rss+xml"/>
+<meta content="オムロン(株)【6645】の掲示板  2024/05/10～ - 株式掲示板" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://finance.yahoo.co.jp/cm/message/1006645/a5aaa5e0a5ma5s" property="og:url"/>
+<meta content="//s.yimg.jp/images/finance/common/image/ogp.png" property="og:image"/>
+<meta content="Yahoo!ファイナンス" property="og:site_name"/>
+<meta content="ファイナンスの掲示板の「オムロン(株)【6645】」のスレッド。2024/05/10&amp;#x306b;&amp;#x4f5c;&amp;#x6210;&amp;#x3055;&amp;#x308c;&amp;#x305f;&amp;#x30aa;&amp;#x30e0;&amp;#x30ed;&amp;#x30f3;(&amp;#x682a;)&amp;#x306b;&amp;#x3064;&amp;#x3044;&amp;#x3066;&amp;#x8a71;&amp;#x3057;&amp;#x5408;&amp;#x3046;&amp;#x30b9;&amp;#x30ec;&amp;#x30c3;&amp;#x30c9;&amp;#x3067;&amp;#x3059;&amp;#x3002;&amp;lt;br /&amp;gt; &amp;#x30b9;&amp;#x30ec;&amp;#x30c3;&amp;#x30c9;&amp;hellip;" property="og:description"/>
+<script async="" src="https://s.yimg.jp/images/ds/yas/ya-1.3.0.min.js"></script>
+<script>
+    window.yacmds = window.yacmds || [];
+    window.ya = window.ya || function() {
+      yacmds.push(arguments)
+    };
+    ya('init', 'b0a4357966e34f9b81004a5c4fd26ce6', '9718acb5-cb4d-46e6-aa97-d27500ea00a4');
+    ya('hit', 'pageview,webPerformance');
+  </script>
+<script>
+    var TLDataContext = {
+      ual: {
+        pageview: {
+          opttype: 'pc',
+          content_id: '6645',
+          id_type: 'finance_brand',
+          nopv: 'false',
+          mtestid: '',
+          ss_join_id: '',
+          ss_join_id_type: '',
+        }
+      }
+    };
+  </script>
+<script async="" src="https://s.yimg.jp/images/ds/managed/1/managed-ual.min.js?tk=037d370d-48b5-413a-bd15-ea3379d94efd&amp;service=finance"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Yahoo!ファイナンス - 株価・最新ニュース","description":"リアルタイム株価、最新ニュース、株式掲示板などを提供する、投資やマネーの総合情報サイトです。株価指数、外国為替相場、日本株、米国株など、投資判断に役立つ情報を掲載しています。","url":"https://finance.yahoo.co.jp/","publisher":{"@type":"Corporation","address":{"@type":"PostalAddress","addressLocality":"Tokyo","addressRegion":"JP","postalCode":"1028282","streetAddress":"東京都千代田区紀尾井町1番3号 東京ガーデンテラス紀尾井町 紀尾井タワー"},"logo":{"@type":"ImageObject","url":"https://s.yimg.jp/c/logo/f/2.0/finance_r_34_2x.png","width":"241","height":"34"}}}</script>
+</link></meta></head>
+<body>
+<div id="wrapper">
+<div style="min-width: 640px">
+<iframe id="TEMPLA_MH" src="https://s.yimg.jp/images/templa/mhdemg/v2/static_mhd.html" style="width: 100%;height: 88px;border-width: 0;vertical-align: bottom;margin: 0 auto 10px;"></iframe>
+<script>
+        YAHOO = window.YAHOO || {};
+        YAHOO.JP = YAHOO.JP || {};
+        YAHOO.JP.templa = YAHOO.JP.templa || {};
+        YAHOO.JP.templa.param = {
+          device_id: 'pc',
+          domain: 'finance',
+          mh_logo_width: 241,
+          mh_logo_height: 34,
+          mh_logo_alt: 'Yahoo!ファイナンス',
+          mh_login_done: "https://finance.yahoo.co.jp/cm/message/1006645/a5aaa5e0a5ma5s",
+          disable_emg2: true,
+          disable_emg3: true,
+        }
+      </script>
+<script defer="" src="https://s.yimg.jp/images/templa/mhdemg/v2/templa.min.js"></script>
+</div>
+<header>
+<div class="ult" id="sh">
+<div id="globalHeader">
+<nav>
+<div class="nav cf">
+<ul>
+<li class="top">
+<a href="/cm"><span>掲示板トップ</span></a>
+</li>
+<li class="history">
+<a class="cl-nofollow" data-slk="h_hist" href="#"><span>最近見たスレッド</span></a>
+</li>
+<li class="searchToggle">
+<a class="cl-nofollow" data-slk="h_srch" href="#"><span>検索</span></a>
+</li>
+</ul>
+<div class="search">
+<div class="searchForm">
+<form action="/cm/message/1006645/a5aaa5e0a5ma5s" class="cf" method="GET">
+<div class="searchOption">
+<select>
+<option value="/cm/message/1006645/a5aaa5e0a5ma5s">スレッド内</option>
+<option value="/cm/search">掲示板全体</option>
+</select>
+</div>
+<label class="searchBtn">
+<input class="" data-sec="sh" data-slk="srcbtn" disabled="" type="submit" value=""/>
+</label>
+<label class="searchTxt">
+<input maxlength="64" name="query" placeholder="キーワードを入力" value=""/>
+</label>
+</form>
+</div>
+</div>
+</div>
+</nav>
+<div class="activityNotice" data-added="0">
+<p>新着通知はありません。</p>
+</div>
+<div class="historyList" data-added="0">
+<p>最近見たスレッドはありません。</p>
+</div>
+</div>
+</div>
+</header>
+<hr class="separation"/>
+<div class="cf" id="contents">
+<div style="border:2px solid #666666; margin:5px 0; padding:5px; background-color:#ffffee; font-size:10pt; line-height:1.4em;">
+<!-- 編集はじめ -->
+<span style="font-weight:bold">＜重要なお知らせ＞掲示板の利用規約について</span><br/>
+この度、Yahoo!ファイナンス掲示板の利用規約を改訂いたしましたのでお知らせいたします。<br/>
+主な修正点として、各禁止事項における詳細説明及び禁止投稿例を追加しました。<br/>
+規約はこちら→<a href="https://support.yahoo-net.jp/PccFinance/s/article/H000011273">【掲示板】禁止行為、投稿に注意が必要な内容について</a><br/><br/>
+【改めてご確認ください】<br/>
+　・他人の個人情報にくわえ、投稿者自身の個人情報も削除対象です。<br/>
+　・無関係な画像や漫画・アニメなど他人の著作物だと判断される画像は削除対象です。<br/>
+　・同様の画像がプロフィールで使用されている場合は、初期化対象です。<br/>
+<!-- 編集おわり -->
+</div>
+<div id="contents-body">
+<span class="yj-guid"><a id="contents-start" name="contents-start"></a><img alt="ここから本文です" height="1" src="//s.yimg.jp/images/clear.gif" width="1"/></span>
+<div class="ult" id="bclst">
+<div id="cat-pass">
+<ul>
+<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="https://finance.yahoo.co.jp" itemprop="url">
+<span itemprop="title">トップ</span>
+</a>
+</li>
+<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="https://finance.yahoo.co.jp/stocks/" itemprop="url">
+<span itemprop="title">日本株</span>
+</a>
+</li>
+<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="https://finance.yahoo.co.jp/quote/6645.T" itemprop="url">
+<span itemprop="title">オムロン(株)【6645.T】</span>
+</a>
+</li>
+<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span itemprop="title">掲示板</span>
+</li>
+</ul>
+</div>
+</div>
+<div id="main">
+<div id="main-inner">
+<div><div id="ad_20326_75027"></div></div>
+<article>
+<div class="threadWrapper" data-category="1006645" data-crumb="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjA5NjI4MTQsImV4cCI6MTcyMDk2NjQxNH0.UwBM7-DAXWbtjLOl6qPdJBs8F4ebhZKuhsBqrT1keuo" data-thread="a5aaa5e0a5ma5s" id="thread" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<div class="ult" id="trdttl">
+<div class="cf" id="threadHd">
+<div class="threadTitle cf">
+<a class="tieup" href="https://finance.yahoo.co.jp">
+<img alt="Yahoo!ファイナンス" height="22" src="//s.yimg.jp/c/logo/s/2.0/finance_r_22.png">
+</img></a>
+<div class="threadAbout">
+<h1>
+            オムロン(株)【6645】の掲示板  2024/05/10～
+          </h1>
+<ul class="threadInfo">
+<li class="threadLength">709</li>
+<li class="threadFaved">50</li>
+<li class="threadUpdated">2024/07/14 19:03</li>
+<li class="rss">
+<a href="/cm/rss/1006645/a5aaa5e0a5ma5s/comment.xml">rss</a>
+</li>
+</ul>
+<div class="threadAddFav" data-category="1006645" data-thread="a5aaa5e0a5ma5s">
+<a data-cl-params="_cl_link:fav;_cl_position:0" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s">
+<span>★</span>
+</a>
+</div>
+</div>
+</div>
+<div class="share">
+<ul class="cf">
+<li><a class="hatena-bookmark-button" data-hatena-bookmark-layout="standard" data-hatena-bookmark-title="オムロン(株)【6645】の掲示板  2024/05/10～ - 株式掲示板 - Yahoo!ファイナンス掲示板" href="http://b.hatena.ne.jp/entry/https://finance.yahoo.co.jp/cm/message/1006645/a5aaa5e0a5ma5s" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="//b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="" charset="utf-8" src="//b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script></li>
+<li><a class="twitter-share-button" data-count="none" data-lang="ja" data-text="オムロン(株)【6645】の掲示板  2024/05/10～ - 株式掲示板 - Yahoo!ファイナンス掲示板" data-url="https://finance.yahoo.co.jp/cm/message/1006645/a5aaa5e0a5ma5s" href="https://twitter.com/share">ツイート</a><script async="" src="//platform.twitter.com/widgets.js" type="text/javascript"></script></li>
+</ul>
+</div>
+<ul class="threadContinuity">
+<li class="threadBefore">
+<a data-cl-params="_cl_link:prtrh;_cl_position:0" href="/cm/message/1006645/a5aaa5e0a5ma5s/19">
+            前スレッド
+          </a>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<div class="finance">
+<div class="ult" id="stkmu">
+<div class="financeMenu">
+<ul class="cf">
+<li><a href="https://finance.yahoo.co.jp/quote/6645.T">詳細</a></li>
+<li><a href="https://finance.yahoo.co.jp/quote/6645.T/chart">チャート</a></li>
+<li><a href="https://finance.yahoo.co.jp/quote/6645.T/history">時系列</a></li>
+<li><a href="https://finance.yahoo.co.jp/quote/6645.T/news">ニュース</a></li>
+<li><a href="https://finance.yahoo.co.jp/quote/6645.T/incentive">優待</a></li>
+<li class="wide-only"><a href="https://minkabu.jp/stock/6645/pick?order=1&amp;sc_id=4&amp;tc_id=ya0s0001">みんかぶ</a></li>
+<li class="wide-only"><a href="https://finance.yahoo.co.jp/quote/6645.T/profile">企業</a></li>
+</ul>
+</div>
+</div>
+<div class="stockChart cf">
+<div class="stockChartImg">
+<a href="https://finance.yahoo.co.jp/quote/6645.T/chart">
+<img alt="オムロン(株) - 株価チャート" src="https://finance.yahoo.co.jp/chart-image-proxy/ex/v1/common/chart/image?code=6645.T&amp;chartSize=290x140"/>
+</a>
+</div>
+<div class="stockChartDetail">
+<div class="stockPrice cf">
+<p>5,864</p>
+<span class="priceUp">+103(1.79%)</span>
+</div>
+<ul>
+<li>
+<dl class="cf">
+<dt>前日終値</dt>
+<dd><span>5,761</span>（07/11）</dd>
+</dl>
+</li>
+<li>
+<dl class="cf">
+<dt>始値</dt>
+<dd><span>5,754</span>（09:00）</dd>
+</dl>
+</li>
+<li>
+<dl class="cf">
+<dt>高値</dt>
+<dd><span>5,879</span>（14:59）</dd>
+</dl>
+</li>
+<li>
+<dl class="cf">
+<dt>安値</dt>
+<dd><span>5,730</span>（09:00）</dd>
+</dl>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="ult" id="cmtpst">
+<div class="commentButton wide-only">
+<a class="buttonSubmit" data-cl-params="_cl_link:cmt;_cl_position:0" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s">このスレッドにコメントする</a>
+<a class="buttonDetail" data-cl-params="_cl_link:dtl;_cl_position:0" href="https://finance.yahoo.co.jp/quote/6645.T">詳細情報を見る</a>
+</div>
+</div>
+<section class="evaluationDetail">
+<header>
+<h2 class="evaluationDetail__heading">掲示板「みんなの評価」</h2>
+</header>
+<div class="evaluationGraph evaluationGraph--positive evaluationDetail__graph">
+<div class="evaluationGraph__invisible">強く買いたい 66.67%,様子見 33.33%</div>
+<div class="evaluationGraph__ratios">
+<span aria-hidden="true" class="evaluationGraph__ratio">
+<span class="evaluationGraph__percentage evaluationGraph__percentage--buy">
+<span class="evaluationGraph__value">67</span>%
+        </span>
+<span class="evaluationGraph__label evaluationGraph__label--buy">
+          買いたい
+        </span>
+</span>
+<span aria-hidden="true" class="evaluationGraph__ratio">
+<span class="evaluationGraph__label evaluationGraph__label--sell">
+          売りたい
+        </span>
+<span class="evaluationGraph__percentage evaluationGraph__percentage--sell">
+<span class="evaluationGraph__value">0</span>%</span>
+</span>
+
+</div>
+<div class="evaluationGraph__graph">
+<span class="evaluationGraph__item evaluationGraph__item--strongest" style="width: 66.67%"></span>
+<span class="evaluationGraph__item evaluationGraph__item--both" style="width: 33.33%"></span>
+</div>
+</div>
+<ul class="evaluationDetail__list">
+<li class="evaluationDetail__item evaluationDetail__item--strongest">強く買いたい</li>
+<li class="evaluationDetail__item evaluationDetail__item--strong">買いたい</li>
+<li class="evaluationDetail__item evaluationDetail__item--both">様子見</li>
+<li class="evaluationDetail__item evaluationDetail__item--weak">売りたい</li>
+<li class="evaluationDetail__item evaluationDetail__item--weakest">強く売りたい</li>
+</ul>
+<p class="evaluationDetail__note">直近1週間でユーザーが掲示板投稿時に選択した感情の割合を表示しています。</p>
+</section>
+<div id="ad_59492_38443"></div>
+<div class="investmentInfo">
+<p>
+    掲示板のコメントはすべて投稿者の個人的な判断を表すものであり、<br>
+    当社が投資の勧誘を目的としているものではありません。
+  </br></p>
+</div>
+<div data-added="0" id="newcmt">
+<div id="unreadPosition">
+<div class="static" data-bind="visible: num" data-category="1006645" data-domain="https://exapi-textream.yahoo.co.jp/v3" data-interval="30000" data-thread="a5aaa5e0a5ma5s" data-total="709" id="unread" style="display: none">
+<a data-bind="attr: { href: url }"><span data-bind="text: num"></span>件の新着コメントを表示<span class="num" data-bind="text: num"></span><span class="unreadFlash" data-bind="text: text"></span></a>
+</div>
+</div>
+</div>
+<div class="ult" id="cmtlst">
+<ul class="commentList" data-page="1" id="page1">
+<li data-comment="709" id="c709">
+<section>
+<div class="comment" data-comment="31654">
+<div class="comHd cf">
+<span class="comNum">
+<span class="latest">709（最新）</span>
+</span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:1" data-user="c14e2019913704090acfa8707b50a20322f9ac8f7da52a8a016cf06d1564b09d" href="/cm/personal/history/comment?user=c14e2019913704090acfa8707b50a20322f9ac8f7da52a8a016cf06d1564b09d"><img class="profImg" src="https://textream-uimg.west.edge.storage-yahoo.jp/v2/6c/47/74b8b1d1dff9a7aa986514855dbb882c221c2296daa9ea17cb7501e559e5ea77.jpg?1684467641">MAR</img></a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:1" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/709">
+                  7月14日 19:03
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">誰か教えてください。<br>
+ここはなんでPER135なんですか？<br>
+何か期待が高まっているのでしょうか？</br></br></p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:1" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:1" href="javascript:void(0)">そう思う<span>1</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:1" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31654" data-user="c14e2019913704090acfa8707b50a20322f9ac8f7da52a8a016cf06d1564b09d">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:1" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:1" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:1" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:1" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="708" id="c708">
+<section>
+<div class="comment" data-comment="31653">
+<div class="comHd cf">
+<span class="comNum">
+              
+              708
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:2" data-user="76fbc989a463c74a1434103bc75eb19fa03a2aace494d795a84740d903e63738" href="/cm/personal/history/comment?user=76fbc989a463c74a1434103bc75eb19fa03a2aace494d795a84740d903e63738"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_14.png"/>enu*****</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:2" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/708">
+                  7月14日 06:58
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">信用需給改善されてきてるな<br>
+ファンドの空売り500万株<br>
+いつ買い戻しすんの？<br>
+そろそろ火柱上がるんじゃね</br></br></br></p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:2" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:2" href="javascript:void(0)">そう思う<span>4</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:2" href="javascript:void(0)">そう思わない<span>2</span></a>
+</li>
+</ul>
+</div>
+<div class="ydn">
+<div id="ad_76464_667846"></div>
+</div>
+<div class="comMenu" data-comment="31653" data-user="76fbc989a463c74a1434103bc75eb19fa03a2aace494d795a84740d903e63738">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:2" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:2" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:2" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:2" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="707" id="c707">
+<section>
+<div class="comment" data-comment="31652">
+<div class="comHd cf">
+<span class="comNum">
+              
+              707
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:3" data-user="769ae7e5e5b23c08ebd16cdc634a173b650b92cd713f765b24cfdd9ec0374b18" href="/cm/personal/history/comment?user=769ae7e5e5b23c08ebd16cdc634a173b650b92cd713f765b24cfdd9ec0374b18"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_03.png"/>mas*****</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:3" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/707">
+                  7月13日 16:49
+                </a>
+</span>
+</p>
+</div>
+<p class="comReplyTo">
+<a data-cl-nofollow="on" data-cl-params="_cl_link:anc;_cl_position:3" data-parent_comment="31651" data-pos="3" data-sec="cmtlst" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/706">
+              &gt;&gt;706
+            </a>
+</p>
+<div class="viewReplyTo" style="display: none"></div>
+<p class="comText">たしかに。<br>
+VCは投資先の価値を上げてから、売却するのが、良いパターンですよね。今回は<span data-stockcode="6645.T" id="stockNameLink">オムロン</span>社に押し付けただけですね。</br></p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:3" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:3" href="javascript:void(0)">そう思う<span>3</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:3" href="javascript:void(0)">そう思わない<span>0</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31652" data-user="769ae7e5e5b23c08ebd16cdc634a173b650b92cd713f765b24cfdd9ec0374b18">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:3" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:3" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:3" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:3" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="706" id="c706">
+<section>
+<div class="comment" data-comment="31651">
+<div class="comHd cf">
+<span class="comNum">
+              
+              706
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:4" data-user="ce231c603ccb38af6d1e4ad6f86870f55cb02a05b66e0ee3ef8f1604149f1a20" href="/cm/personal/history/comment?user=ce231c603ccb38af6d1e4ad6f86870f55cb02a05b66e0ee3ef8f1604149f1a20"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_18.png"/>無責任</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:4" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/706">
+                  7月12日 19:30
+                </a>
+</span>
+</p>
+</div>
+<p class="comReplyTo">
+<a data-cl-nofollow="on" data-cl-params="_cl_link:anc;_cl_position:4" data-parent_comment="31647" data-pos="4" data-sec="cmtlst" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/702">
+              &gt;&gt;702
+            </a>
+</p>
+<div class="viewReplyTo" style="display: none"></div>
+<p class="comText">iCAREへの出資は新規でなく既存のVCから買ったものでiCAREが資金を得たものでない。期待が出来るなら第三者割当を貰うはず。<br>
+ずっと赤字だが一昨年から更に業績が悪化して上場は絶望的、投資したVCが回収の見込みがなくて押し付け合いで、それを高値で買わされたんでしょう。価値が短期で上がるものならVCが売るはずがないでしょ？</br></p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:4" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+<a class="count" data-cl-params="_cl_link:repbge;_cl_position:4" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/706">
+                  1
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:4" href="javascript:void(0)">そう思う<span>8</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:4" href="javascript:void(0)">そう思わない<span>3</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31651" data-user="ce231c603ccb38af6d1e4ad6f86870f55cb02a05b66e0ee3ef8f1604149f1a20">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:4" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:4" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:4" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:4" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="705" id="c705">
+<section>
+<div class="comment" data-comment="31650">
+<div class="comHd cf">
+<span class="comNum">
+              
+              705
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:5" data-user="fb294ce2aa0d61af7d73a564f8c51a89366ba45b0e45c96455913948c934d4ab" href="/cm/personal/history/comment?user=fb294ce2aa0d61af7d73a564f8c51a89366ba45b0e45c96455913948c934d4ab"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_27.png"/>風見鶏</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:5" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/705">
+                  7月12日 15:02
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">日経下げ基調を徐々に<br>
+何か強いんね</br></p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:5" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:5" href="javascript:void(0)">そう思う<span>6</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:5" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31650" data-user="fb294ce2aa0d61af7d73a564f8c51a89366ba45b0e45c96455913948c934d4ab">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:5" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:5" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:5" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:5" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="704" id="c704">
+<section>
+<div class="comment" data-comment="31649">
+<div class="comHd cf">
+<span class="comNum">
+              
+              704
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:6" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352" href="/cm/personal/history/comment?user=87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_22.png"/>kar*****</a>
+<span class="evaluationLabel evaluationLabel--strongest">
+                強く買いたい
+              </span>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:6" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/704">
+                  7月12日 15:01
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">よっしゃーっ！という結果になった。^O^</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:6" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:6" href="javascript:void(0)">そう思う<span>5</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:6" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31649" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:6" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:6" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:6" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:6" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="703" id="c703">
+<section>
+<div class="comment" data-comment="31648">
+<div class="comHd cf">
+<span class="comNum">
+              
+              703
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:7" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352" href="/cm/personal/history/comment?user=87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_22.png"/>kar*****</a>
+<span class="evaluationLabel evaluationLabel--strongest">
+                強く買いたい
+              </span>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:7" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/703">
+                  7月12日 14:35
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">う～ん、飛ばし過ぎかも。最後にドッスンなんて嫌だもんね。</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:7" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:7" href="javascript:void(0)">そう思う<span>3</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:7" href="javascript:void(0)">そう思わない<span>0</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31648" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:7" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:7" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:7" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:7" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="702" id="c702">
+<section>
+<div class="comment" data-comment="31647">
+<div class="comHd cf">
+<span class="comNum">
+              
+              702
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:8" data-user="c1bc065f6070d1133e2a457d483d4e09c19ef96cf7c4336461875525401c7836" href="/cm/personal/history/comment?user=c1bc065f6070d1133e2a457d483d4e09c19ef96cf7c4336461875525401c7836"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_09.png"/>地元住民</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:8" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/702">
+                  7月12日 13:23
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">iCareとかいうベンチャー企業に出資。会長の小遣いで出したならいいけど。<br/>
+赤字が累積していつ倒産してもおかしくない。<br/>
+<a href="http://textream.yahoo.co.jp/jump?url=https%3A%2F%2Fcatr.jp%2Fcompanies%2F391f1%2F80670" rel="nofollow">https://catr.jp/companies/391f1/80670</a><br/>
+<br/>
+この分野、参入が多いけど生き残るのは２社くらいだろう。</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:8" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+<a class="count" data-cl-params="_cl_link:repbge;_cl_position:8" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/702">
+                  1
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:8" href="javascript:void(0)">そう思う<span>2</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:8" href="javascript:void(0)">そう思わない<span>13</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31647" data-user="c1bc065f6070d1133e2a457d483d4e09c19ef96cf7c4336461875525401c7836">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:8" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:8" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:8" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:8" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="700" id="c700">
+<section>
+<div class="comment" data-comment="31645">
+<div class="comHd cf">
+<span class="comNum">
+              
+              700
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:9" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352" href="/cm/personal/history/comment?user=87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_22.png"/>kar*****</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:9" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/700">
+                  7月12日 09:53
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">あ、下がってきた。やめてくれー。</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:9" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:9" href="javascript:void(0)">そう思う<span>6</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:9" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31645" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:9" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:9" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:9" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:9" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="699" id="c699">
+<section>
+<div class="comment" data-comment="31644">
+<div class="comHd cf">
+<span class="comNum">
+              
+              699
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:10" data-user="0e17be374b02e409f6c9457bbf7852450d1cde51318f5f5a18ebcc7524027592" href="/cm/personal/history/comment?user=0e17be374b02e409f6c9457bbf7852450d1cde51318f5f5a18ebcc7524027592"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_28.png"/>JUN</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:10" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/699">
+                  7月12日 09:42
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">ダメロンも返上か</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:10" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:10" href="javascript:void(0)">そう思う<span>8</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:10" href="javascript:void(0)">そう思わない<span>3</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31644" data-user="0e17be374b02e409f6c9457bbf7852450d1cde51318f5f5a18ebcc7524027592">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:10" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:10" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:10" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:10" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="698" id="c698">
+<section>
+<div class="comment" data-comment="31643">
+<div class="comHd cf">
+<span class="comNum">
+              
+              698
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:11" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352" href="/cm/personal/history/comment?user=87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_22.png"/>kar*****</a>
+<span class="evaluationLabel evaluationLabel--strongest">
+                強く買いたい
+              </span>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:11" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/698">
+                  7月12日 09:34
+                </a>
+</span>
+</p>
+</div>
+<p class="comReplyTo">
+<a data-cl-nofollow="on" data-cl-params="_cl_link:anc;_cl_position:11" data-parent_comment="31641" data-pos="11" data-sec="cmtlst" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/696">
+              &gt;&gt;696
+            </a>
+</p>
+<div class="viewReplyTo" style="display: none"></div>
+<p class="comText">このパターンは爆上げの兆候のことが多いですね。^O^</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:11" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:11" href="javascript:void(0)">そう思う<span>6</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:11" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31643" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:11" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:11" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:11" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:11" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="696" id="c696">
+<section>
+<div class="comment" data-comment="31641">
+<div class="comHd cf">
+<span class="comNum">
+              
+              696
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:12" data-user="84b7389a9485b51989c17b39ea7d5a1319e4769eea805992517ea96ebdbda86b" href="/cm/personal/history/comment?user=84b7389a9485b51989c17b39ea7d5a1319e4769eea805992517ea96ebdbda86b"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_32.png"/>サカプン</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:12" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/696">
+                  7月12日 08:22
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">また介入に対しての外資のメッセージな気配だよなー<br/>
+それにしても最近するすると上がっていったけど、ここらで一度休憩してる場合じゃないんだよ</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:12" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+<a class="count" data-cl-params="_cl_link:repbge;_cl_position:12" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/696">
+                  1
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:12" href="javascript:void(0)">そう思う<span>6</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:12" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31641" data-user="84b7389a9485b51989c17b39ea7d5a1319e4769eea805992517ea96ebdbda86b">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:12" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:12" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:12" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:12" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="695" id="c695">
+<section>
+<div class="comment" data-comment="31640">
+<div class="comHd cf">
+<span class="comNum">
+              
+              695
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:13" data-user="2ac1701cc79f6986cce2e94721511480a9d37be8a8aec9ca771a9626f023e7a9" href="/cm/personal/history/comment?user=2ac1701cc79f6986cce2e94721511480a9d37be8a8aec9ca771a9626f023e7a9"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_07.png"/>くろひつじ</a>
+<span class="evaluationLabel evaluationLabel--both">
+                様子見
+              </span>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:13" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/695">
+                  7月11日 15:18
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">マイ転、だと！？</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:13" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:13" href="javascript:void(0)">そう思う<span>6</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:13" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31640" data-user="2ac1701cc79f6986cce2e94721511480a9d37be8a8aec9ca771a9626f023e7a9">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:13" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:13" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:13" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:13" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="694" id="c694">
+<section>
+<div class="comment" data-comment="31639">
+<div class="comHd cf">
+<span class="comNum">
+              
+              694
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:14" data-user="fb294ce2aa0d61af7d73a564f8c51a89366ba45b0e45c96455913948c934d4ab" href="/cm/personal/history/comment?user=fb294ce2aa0d61af7d73a564f8c51a89366ba45b0e45c96455913948c934d4ab"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_27.png"/>風見鶏</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:14" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/694">
+                  7月11日 15:15
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">引けでゴメンか</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:14" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:14" href="javascript:void(0)">そう思う<span>3</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:14" href="javascript:void(0)">そう思わない<span>1</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31639" data-user="fb294ce2aa0d61af7d73a564f8c51a89366ba45b0e45c96455913948c934d4ab">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:14" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:14" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:14" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:14" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="693" id="c693">
+<section>
+<div class="comment" data-comment="31638">
+<div class="comHd cf">
+<span class="comNum">
+              
+              693
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:15" data-user="c1bc065f6070d1133e2a457d483d4e09c19ef96cf7c4336461875525401c7836" href="/cm/personal/history/comment?user=c1bc065f6070d1133e2a457d483d4e09c19ef96cf7c4336461875525401c7836"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_09.png"/>地元住民</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:15" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/693">
+                  7月11日 12:17
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">1Q決算発表8月2日。<br/>
+ストップ高は有り得ないとして、想定内でちょい上げくらいはあるか？</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:15" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:15" href="javascript:void(0)">そう思う<span>13</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:15" href="javascript:void(0)">そう思わない<span>6</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31638" data-user="c1bc065f6070d1133e2a457d483d4e09c19ef96cf7c4336461875525401c7836">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:15" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:15" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:15" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:15" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="692" id="c692">
+<section>
+<div class="comment" data-comment="31637">
+<div class="comHd cf">
+<span class="comNum">
+              
+              692
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:16" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352" href="/cm/personal/history/comment?user=87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_22.png"/>kar*****</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:16" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/692">
+                  7月11日 10:09
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">情けない。瓜坊に押されっぱなし。いい実績が出てこないから仕方ないけど。(T_T)</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:16" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:16" href="javascript:void(0)">そう思う<span>6</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:16" href="javascript:void(0)">そう思わない<span>0</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31637" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:16" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:16" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:16" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:16" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="691" id="c691">
+<section>
+<div class="comment" data-comment="31636">
+<div class="comHd cf">
+<span class="comNum">
+              
+              691
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:17" data-user="649c2cf7ecf4a39632abc2c8fee19079bcf16d974722ddbf419a25f811c7169b" href="/cm/personal/history/comment?user=649c2cf7ecf4a39632abc2c8fee19079bcf16d974722ddbf419a25f811c7169b"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_19.png"/>wanwan</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:17" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/691">
+                  7月10日 20:14
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">日経225先物42,000超えてるけど、どうしたの？</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:17" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:17" href="javascript:void(0)">そう思う<span>6</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:17" href="javascript:void(0)">そう思わない<span>2</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31636" data-user="649c2cf7ecf4a39632abc2c8fee19079bcf16d974722ddbf419a25f811c7169b">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:17" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:17" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:17" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:17" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="690" id="c690">
+<section>
+<div class="comment" data-comment="31635">
+<div class="comHd cf">
+<span class="comNum">
+              
+              690
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:18" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352" href="/cm/personal/history/comment?user=87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_22.png"/>kar*****</a>
+<span class="evaluationLabel evaluationLabel--strongest">
+                強く買いたい
+              </span>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:18" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/690">
+                  7月10日 16:15
+                </a>
+</span>
+</p>
+</div>
+<p class="comReplyTo">
+<a data-cl-nofollow="on" data-cl-params="_cl_link:anc;_cl_position:18" data-parent_comment="31634" data-pos="18" data-sec="cmtlst" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/689">
+              &gt;&gt;689
+            </a>
+</p>
+<div class="viewReplyTo" style="display: none"></div>
+<p class="comText">日経連動で上げただけなので、インパクトのある情報が出てこない限り、力強い上げは来ないでしょうね。いつ出るのかな？それとも材料無しか？</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:18" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:18" href="javascript:void(0)">そう思う<span>3</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:18" href="javascript:void(0)">そう思わない<span>5</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31635" data-user="87cae35345c76aeb2a378beedee9e94ac01032d982357a8965df9a68d82e3352">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:18" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:18" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:18" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:18" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="689" id="c689">
+<section>
+<div class="comment" data-comment="31634">
+<div class="comHd cf">
+<span class="comNum">
+              
+              689
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:19" data-user="2ac1701cc79f6986cce2e94721511480a9d37be8a8aec9ca771a9626f023e7a9" href="/cm/personal/history/comment?user=2ac1701cc79f6986cce2e94721511480a9d37be8a8aec9ca771a9626f023e7a9"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_07.png"/>くろひつじ</a>
+<span class="evaluationLabel evaluationLabel--both">
+                様子見
+              </span>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:19" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/689">
+                  7月10日 15:29
+                </a>
+</span>
+</p>
+</div>
+<p class="comText">プラ転、だと！？</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:19" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+<a class="count" data-cl-params="_cl_link:repbge;_cl_position:19" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/689">
+                  1
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:19" href="javascript:void(0)">そう思う<span>7</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:19" href="javascript:void(0)">そう思わない<span>0</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31634" data-user="2ac1701cc79f6986cce2e94721511480a9d37be8a8aec9ca771a9626f023e7a9">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:19" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:19" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:19" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:19" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+<li data-comment="688" id="c688">
+<section>
+<div class="comment" data-comment="31633">
+<div class="comHd cf">
+<span class="comNum">
+              
+              688
+              
+            </span>
+<p class="comWriter">
+<a data-cl-params="_cl_link:usrnm;_cl_position:20" data-user="c592dd7829a318b052484e766a68d699414b2304531abe186de209edf12d964e" href="/cm/personal/history/comment?user=c592dd7829a318b052484e766a68d699414b2304531abe186de209edf12d964e"><img class="profImg" src="https://s.yimg.jp/images/mb/textream/common/img/profile/default_profile_31.png"/>きんたろう</a>
+<span>
+<a data-cl-params="_cl_link:dt;_cl_position:20" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/688">
+                  7月10日 12:29
+                </a>
+</span>
+</p>
+</div>
+<p class="comReplyTo">
+<a data-cl-nofollow="on" data-cl-params="_cl_link:anc;_cl_position:20" data-parent_comment="31632" data-pos="20" data-sec="cmtlst" href="/cm/message/1006645/a5aaa5e0a5ma5s/20/687">
+              &gt;&gt;687
+            </a>
+</p>
+<div class="viewReplyTo" style="display: none"></div>
+<p class="comText">しばらくは大きく下がらないだろう</p>
+<div class="comAct cf">
+<ul class="comReaction cf">
+<li class="reply">
+<a data-cl-params="_cl_link:rep;_cl_position:20" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">
+                  返信する
+                </a>
+</li>
+</ul>
+<ul class="comLike cf">
+<li class="positive">
+<a data-cl-params="_cl_link:good;_cl_position:20" href="javascript:void(0)">そう思う<span>13</span></a>
+</li>
+<li class="negative">
+<a data-cl-params="_cl_link:bad;_cl_position:20" href="javascript:void(0)">そう思わない<span>3</span></a>
+</li>
+</ul>
+</div>
+<div class="comMenu" data-comment="31633" data-user="c592dd7829a318b052484e766a68d699414b2304531abe186de209edf12d964e">
+<a class="comMenuBtn close" data-cl-nofollow="on" data-sec="cmtlst">開く</a>
+<ul class="comMenuList">
+<li>
+<a class="comMenuFav" data-cl-params="_cl_link:fav;_cl_position:20" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">お気に入りユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuBlock" data-cl-params="_cl_link:blk;_cl_position:20" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s" rel="nofollow">無視ユーザーに登録する</a>
+</li>
+<li>
+<a class="comMenuReport" data-cl-params="_cl_link:vio;_cl_position:20" href="javascript:void(0)">違反報告する</a>
+</li>
+<li>
+<a class="comMenuReportFinance" data-cl-params="_cl_link:viostk;_cl_position:20" href="https://www.fsa.go.jp/sesc/watch/index.html" target="_blank">証券取引等監視委員会に情報提供する</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</li>
+</ul>
+</div>
+<div data-ignore="" id="ignores"></div>
+<div data-category="1006645" data-part="20" data-reputation_detail="そう思う,そう思わない" data-thread="a5aaa5e0a5ma5s" data-thread_feel_type="1" data-thread_name="オムロン(株)【6645】" data-thread_stop_flag="" data-tieup_name="finance" data-visible="false" id="thread_info" style="display: none"></div>
+<script>
+  const pvtag_pvrequest = function() {}
+</script>
+<div class="loading" id="loading"></div>
+<div class="errorMsg" id="errorMsg">
+<p>読み込みエラーが発生しました</p>
+<a>再読み込み</a>
+</div>
+<noscript>
+<div class="loading-noscript">
+    お客様の環境ではJavascriptが有効になっていないため、次ページを読み込むことができません。
+    次ページ以降のコメントを参照したい場合は、Javascriptを有効にしてください。
+  </div>
+</noscript>
+</div>
+</article>
+<div class="CommentFormFixed">
+<div class="ult" id="pstbtn">
+<div class="commentButton spCommentFooter narrow-only">
+<a class="buttonSubmit cl-noclick-log" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s">投稿する<span></span></a>
+</div>
+</div>
+<div class="ult" id="cmtpstbo">
+<div class="commentButton wide-only">
+<div class="postFormFixed">
+<a class="buttonSubmit" href="https://login.yahoo.co.jp/config/login?.src=mb&amp;.done=https%3A%2F%2Ffinance.yahoo.co.jp%2Fcm%2Fmessage%2F1006645%2Fa5aaa5e0a5ma5s">投稿する<span></span></a>
+</div>
+</div>
+</div>
+<div class="ad_overlay" id="ad_overlay">
+</div>
+</div>
+</div>
+</div>
+<div id="sub">
+<div class="wide-only" id="pos-lrec">
+<div id="rma-pdv"></div>
+<div id="ad_71873_315472"></div>
+</div>
+<div class="mb10 wide-only" style="text-align: center; margin-top:10px;">
+<a href="https://finance.yahoo.co.jp/card-loan/?channel=y_internal&amp;srv=f_board">
+<img alt="カードローンカタログ" src="https://s.yimg.jp/images/finance/card-loan/bnr/201907/300_60.png"/>
+</a>
+</div>
+<div class="ult mb10" id="incarnk">
+<div class="linkList ydn">
+<h2>
+      
+      株式カテゴリ<br/>
+      
+      アクセスランキング
+    </h2>
+<ol>
+<li>
+<a href="/cm/message/1998407/ffc7pjbf6q3t2a">日経平均株価</a>
+</li>
+<li>
+<a href="/cm/message/1005341/a5a2a55a5r1rfab">ＡＳＡＨＩ　ＥＩＴＯホールディングス(株)</a>
+</li>
+<li>
+<a href="/cm/message/1835900/d2c8cb2056a3a0335954591de6bf81cf">NEXT NOTES 韓国KOSPI･ベアETN</a>
+</li>
+<li>
+<a href="/cm/message/1007776/7776">(株)セルシード</a>
+</li>
+<li>
+<a href="/cm/message/1835700/2560abea91c3773296eea4ea4bf42965">(株)ＱＰＳ研究所</a>
+</li>
+<li>
+<a href="/cm/message/1007011/bb0ia9bde9a96h">三菱重工業(株)</a>
+</li>
+<li>
+<a href="/cm/message/1004582/4582">シンバイオ製薬(株)</a>
+</li>
+<li>
+<a href="/cm/message/1835646/6d30b95d9c321a636fdf9f7ff81aae26">サンバイオ(株)</a>
+</li>
+<li>
+<a href="/cm/message/1160009530/d1322d7db2b9573db38a3a1abbeb06ba">エヌビディア</a>
+</li>
+<li>
+<a href="/cm/message/1009984/a5bda5ua5ha5pa5sa5af">ソフトバンクグループ(株)</a>
+</li>
+</ol>
+</div>
+</div>
+<div class="ult" id="ydn_tpmr">
+<div class="mb10">
+<div id="ad_11939_16523" style="min-height: 250px"></div>
+</div>
+</div>
+<div class="ult" id="newtrd">
+<div class="linkList wide-only">
+<h2>新着スレッド</h2>
+<ul>
+<li>
+<a href="/cm/message/1835673/aa1a3ae6cb289e47fd40d80fa7bb6085">(株)アスタリスク</a>
+</li>
+<li>
+<a href="/cm/message/1007751/a5ada5da5na5s">キヤノン(株)</a>
+</li>
+<li>
+<a href="/cm/message/1003856/3856">Ａｂａｌａｎｃｅ(株)</a>
+</li>
+<li>
+<a href="/cm/message/1835673/db632d24bfa202dca5cff6831f8094d5">(株)オキサイド</a>
+</li>
+<li>
+<a href="/cm/message/1008035/el5fea5a8a5la5afa5ha5ma5s">東京エレクトロン(株)</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="homingModule mb10">
+<div class="ult" id="rctrd">
+<div class="linkList">
+<h2>この銘柄を見た人はこんな銘柄も見ています</h2>
+<ul>
+<li><a href="/cm/rd/finance/3591">(株)ワコールホールディングス</a></li>
+<li><a href="/cm/rd/finance/4483">(株)ＪＭＤＣ</a></li>
+<li><a href="/cm/rd/finance/4543">テルモ(株)</a></li>
+<li><a href="/cm/rd/finance/6506">(株)安川電機</a></li>
+<li><a href="/cm/rd/finance/6594">ニデック(株)</a></li>
+<li><a href="/cm/rd/finance/6963">ローム(株)</a></li>
+<li><a href="/cm/rd/finance/7701">(株)島津製作所</a></li>
+</ul>
+</div>
+</div>
+<div class="ult" id="ydn_bomr">
+<div class="mb10">
+<div id="ad_79414_16447" style="min-height: 250px"></div>
+</div>
+</div>
+</div>
+<div id="ad_33221_714911"></div>
+<div class="footerInner">
+<div class="ult" id="scrltop" style="width:100%;margin:5px 0 15px 0;">
+<button id="btnPageTop" type="button">ページ上部に戻る</button>
+</div>
+<div class="ult" id="sf">
+<div class="footerLinks">
+<div class="footerLinks__item backTopLinks">
+<li class="backTopLinks__item"><a href="https://finance.yahoo.co.jp/">Yahoo!ファイナンス</a></li>
+<li class="backTopLinks__item"><a href="https://www.yahoo.co.jp/">Yahoo! JAPAN</a></li>
+</div>
+<div class="footerLinks__item commonLinks">
+<ul class="commonLinks__items">
+<li class="commonLinks__item"><a href="https://www.lycorp.co.jp/ja/company/privacypolicy/">プライバシーポリシー</a></li>
+<li class="commonLinks__item"><a href="https://privacy.lycorp.co.jp/ja/">プライバシーセンター</a></li>
+</ul>
+<ul class="commonLinks__items">
+<li class="commonLinks__item"><a href="https://www.lycorp.co.jp/ja/company/terms/">利用規約</a></li>
+<li class="commonLinks__item"><a href="https://support.yahoo-net.jp/PccFinance/s/">ヘルプ</a></li>
+</ul>
+</div>
+<div class="footerLinks__item subLinks">
+<p class="subLinks__item">JASRAC許諾番号：9008249113Y38200</p>
+<p class="subLinks__item">写真：アフロ</p>
+<p class="subLinks__item"> LY Corporation</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contents-footer">
+<span class="yj-guid"><img alt="本文はここまでです" height="1" src="//s.yimg.jp/images/clear.gif" width="1"/></span>
+<span class="yj-skip">
+<a href="#pagetop"><img alt="このページの先頭へ" height="1" src="//s.yimg.jp/images/clear.gif" width="1"/></a></span>
+</div>
+</div>
+<div id="footer"></div>
+</div>
+<div data-added="0" id="viocnfr">
+<div class="modal normModal" data-category="1006645" data-thread="a5aaa5e0a5ma5s" id="reportModal" style="display: none;">
+<p class="modalTitle">違反報告</p>
+<div class="modalDetail">
+<p class="modalDescription">ガイドラインに違反していると思われる投稿を見つけた場合は、このフォームから報告できます。違反報告について詳しくは<a href="https://support.yahoo-net.jp/PccFinance/s/article/H000011278" target="_blank">こちら</a>。</p>
+<dl class="modalForm">
+<dt>違反項目</dt>
+<dd class="modalSelect">
+<select name="type">
+<option value="0">選んでください</option>
+<option value="6">広告、もしくはPR</option>
+<option value="10">カテゴリ、スレッドと無関係</option>
+<option value="2">同じ内容を繰り返し投稿</option>
+<option value="11">アダルト・グロ・罵詈雑言</option>
+<option value="1">個人情報を含む投稿</option>
+<option value="3">著作権、知的所有権の侵害</option>
+<option value="12">悪質な投稿を行うユーザー</option>
+<option value="9">その他</option>
+</select>
+</dd>
+<dt>報告内容
+          <span>（100文字以内で入力してください）</span>
+</dt>
+<dd class="modalTextarea">
+<textarea placeholder="100文字以内で入力してください"></textarea>
+</dd>
+</dl>
+<div class="textBox textBoxCaution">
+<dl>
+<dt>注意事項</dt>
+<dd>・ご連絡に個別にお答えすることはありません<br/>・ご連絡をいただいた内容は<a href="https://www.lycorp.co.jp/ja/company/terms/">利用規約</a>、<a href="https://support.yahoo-net.jp/PccFinance/s/article/H000011273">【掲示板】禁止行為、投稿に注意が必要な内容について</a>等に照らし合わせて確認を行います</dd><dd>・ご連絡いただいても違反が認められない場合は、対応/処置を実施しない場合もあります</dd>
+</dl>
+</div>
+<div class="modalButton">
+<input class="buttonSubmit" data-cl-params="_cl_link:rep;_cl_position:0" type="submit" value="報告する"/>
+<a class="buttonCancel" data-cl-params="_cl_link:cncl;_cl_position:0" href="javascript:void(0)">キャンセル</a>
+</div>
+</div>
+</div>
+</div>
+<div data-added="0" id="delcnfr">
+<div class="modal normModal" id="deleteModal" style="display: none;">
+<div class="modalDetail">
+<p class="modalDescription">このコメントを削除しますか？</p>
+<div class="modalButton">
+<form action="/cm/post/delete" method="POST">
+<input class="buttonDelete" data-cl-params="_cl_link:del;_cl_position:0" type="submit" value="削除する"/>
+<a class="buttonCancel" data-cl-params="_cl_link:cncl;_cl_position:0" href="javascript:void(0)">戻る</a>
+<input name="crumb" type="hidden" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjA5NjI4MTQsImV4cCI6MTcyMDk2NjQxNH0.UwBM7-DAXWbtjLOl6qPdJBs8F4ebhZKuhsBqrT1keuo"/>
+<input name="category" type="hidden" value="1006645"/>
+<input name="thread" type="hidden" value="a5aaa5e0a5ma5s"/>
+<input name="comment" type="hidden" value=""/>
+<input name="done" type="hidden" value="https://finance.yahoo.co.jp/cm/message/1006645/a5aaa5e0a5ma5s?nc=3acec"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div data-added="0" id="srch">
+<div class="searchModal modal normModal" id="searchModal" style="display: none;">
+<div class="search">
+<div class="searchForm">
+<form action="/cm/message/1006645/a5aaa5e0a5ma5s" class="cf" method="GET">
+<label class="searchBtn"><input class="" data-sec="srch" data-slk="srcbtn" disabled="" type="submit" value=""/></label>
+<label class="searchTxt">
+<input maxlength="64" name="query" placeholder="キーワードを入力" value=""/>
+</label>
+</form>
+</div>
+<ul class="searchOption cf">
+<li><label><input checked="checked" name="searchTargetModal" type="radio" value="/cm/message/1006645/a5aaa5e0a5ma5s"/>「オムロン(株)【6645】」内のコメント</label></li>
+<li><label><input name="searchTargetModal" type="radio" value="/cm/search"/>掲示板全体のコメント</label></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="modalBg">
+</div>
+<input id="crumb" name="crumb" type="hidden" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjA5NjI4MTQsImV4cCI6MTcyMDk2NjQxNH0.UwBM7-DAXWbtjLOl6qPdJBs8F4ebhZKuhsBqrT1keuo"/>
+</body>
+<script src="https://s.yimg.jp/l/jquery/3.6.3/jquery.min.js" type="text/javascript"></script>
+<script src="https://s.yimg.jp/images/mb/textream/common/js/common-2.0.9.js" type="text/javascript"></script>
+<script src="https://s.yimg.jp/images/mb/textream/common/js/knockout-3.5.1.js" type="text/javascript"></script>
+<script src="https://s.yimg.jp/images/ds/cl/ds-custom-logger-1.2.0.min.js"></script>
+<script type="text/javascript">
+  var ins;
+  $(function() {
+    var sr = new DSCustomLogger.CustomLogger();
+    var modules = [];
+    var $ult = $(".ult");
+    for (var i = 0; i < $ult.length; i++) {
+      modules.push($ult.eq(i).attr("id"));
+    }
+    var $yjsmhMenu = $("#yjsmhMenu");
+    if ($yjsmhMenu.length > 0) {
+      modules.push("yjsmhMenu")
+    }
+
+    var pageData = JSON.parse('{"service":"textream","status":"logout","apptype":"web","_cl_mk":"掲示板,株式,電気機器","opttype":"pc","pagetype":"list","conttype":"cmt","ctsid":"a5aaa5e0a5ma5s","cat_path":"1834773,1835673"}');
+    ins = sr.setModule(modules)
+      .setPageData(pageData)
+      .initCustomLoggerCore();
+  });
+</script>
+<script>
+        (function (window) {
+          window.YJ_YADS = window.YJ_YADS || { tasks: [] };
+          window.YJ_YADS.tasks.push(
+            { yads_ad_ds: '20326_75027',yads_parent_element: 'ad_20326_75027' },
+{ yads_ad_ds: '59492_38443',yads_parent_element: 'ad_59492_38443' },
+{ yads_ad_ds: '76464_667846',yads_parent_element: 'ad_76464_667846' },
+{ yads_ad_ds: '71873_315472',yads_parent_element: 'ad_71873_315472' },
+{ yads_ad_ds: '11939_16523',yads_parent_element: 'ad_11939_16523' },
+{ yads_ad_ds: '79414_16447',yads_parent_element: 'ad_79414_16447' },
+{ yads_ad_ds: '33221_714911',yads_parent_element: 'ad_33221_714911' }
+          );
+        })(window);
+      </script>
+</html>
