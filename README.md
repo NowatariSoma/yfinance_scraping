@@ -86,3 +86,11 @@ Shift-JISにエンコードできる文字のみを含むテキスト
 ## 注意点
 - Yahoo!ファイナンスのページ構造が変更された場合、プログラムが動作しない可能性があります。
 - Shift-JISにエンコードできない文字は削除されるため、元のコメントの情報が一部失われる可能性があります。
+
+
+# 追記
+
+[selenium](http://localhost:7900/?autoconnect=1&resize=scale&password=secret)
+
+[phpmyadmin](http://localhost:8080/)
+
